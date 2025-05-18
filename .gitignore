@@ -1,0 +1,25 @@
+# .gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+# Build/install
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Database
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# PyInstaller
+*.spec
+
+# Executables
+*.exe
