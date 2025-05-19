@@ -1,3 +1,4 @@
+### We_Weather
 Weather Data Processing App
 A Python application that scrapes historical weather data for Winnipeg from Environment Canada, stores it in a SQLite database, and visualizes trends through an interactive GUI.
 
